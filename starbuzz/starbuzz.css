@@ -97,3 +97,16 @@ a:visited {
   padding: 15px;
   vertical-align: top;
 }
+.image1{
+  float: left;
+  background-image: url(images/header.gif);
+  width: 400px;
+  height: 100px;
+}
+.image2{
+  float: right;
+  background-image: url(images/header.gif);
+  width: 400px;
+  height: 100px;
+  background-position: -400px;
+}
